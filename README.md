@@ -14,7 +14,7 @@ A fun and interactive web application that detects and displays information abou
 3. Watch the magic happen! ✨
 
 ## Live Demo 🌐
-Check out the live version here: [https://iam269.github.io/Detect-Key-Pressed/](https://iam269.github.io/Detect-Key-Pressed/)
+Check out the live version here: [https://itsiamdev.github.io/Detect-Key-Pressed/](https://itsiamdev.github.io/Detect-Key-Pressed/)
 
 ## Technologies Used 🛠️
 - HTML5
